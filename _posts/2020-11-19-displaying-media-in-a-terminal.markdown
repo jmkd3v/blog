@@ -6,7 +6,7 @@ categories: [Python, Terminal]
 ---
 
 This blog post came from the old jmkdev blog. [View the original post here.](https://blog.jmksite.dev/2020/11/displaying-media-in-terminal.html)
-I haven't been able to tranfer over the videos from the old post yet, so you'll have to go there to see them. Sorry about that!
+I haven't been able to transfer over the videos from the old post yet, so you'll have to go there to see them. Sorry about that!
 
 **Note: If you just want to see a video being played in a command prompt, scroll down to the videos!**  
 A little while ago I was messing around with Python and Pillow and wrote a little program to dump an image to a command prompt. It used the 4 shade characters and the space key plus the 8x8 raster font.
